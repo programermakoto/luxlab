@@ -21,3 +21,34 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+
+
+
+/* アニメーション */
+.animate-fadeUp {
+  opacity: 0;
+  transform: translateY(40px);
+}
+.animate-fadeBlur {
+  opacity: 0;
+  transform: translateY(24px);
+  filter: blur(8px);
+}
+.animate-slideLeft {
+  opacity: 0;
+  transform: translateX(-60px);
+}
+.animate-slideRight {
+  opacity: 0;
+  transform: translateX(+60px);
+}
+
+/* 表示時 */
+
+.appear {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.8s ease-out;
+  filter: blur(0);
+  transition: all 0.9s cubic-bezier(.2,.8,.2,1);
+}
