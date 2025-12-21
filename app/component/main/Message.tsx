@@ -4,7 +4,7 @@ import Fireflies from "../animation/Fireflies"
 export default function Message() {
   return (
 
-    <section className="container py-40 text-center relative">
+    <section className="container py-40 text-center ">
       <Fireflies />
       {/* 上部メッセージ */}
       <p className="mb-6 text-xs tracking-widest text-gray-400">

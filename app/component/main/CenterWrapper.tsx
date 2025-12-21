@@ -43,7 +43,7 @@ export default function CenterWrapper() {
           </div>
 
           {/* PRO */}
-          <div className="rounded-2xl border border-[#D4AF37] p-8 shadow-lg scale-105">
+          <div className="rounded-2xl border border-[#D4AF37] p-8 shadow-lg md:scale-105">
             <h4 className="text-xl font-bold mb-1">⭐️ LAB PRO</h4>
             <p className="mb-4 font-bold text-lg">月額 20,000円（税込）</p>
 
@@ -94,7 +94,7 @@ export default function CenterWrapper() {
           ref={bonusRef}
           className="
             relative
-            w-2/3 mx-auto
+            w-full md:w-2/3 mx-auto
             rounded-2xl
             overflow-hidden
             border

@@ -13,7 +13,7 @@ export default function ServiceTabs() {
   const [activeTab, setActiveTab] = useState("features");
 
   return (
-    <section className="pb-40 container mx-auto px-4 relative">
+    <section className="pb-40 container mx-auto px-4 relative ">
       <Fireflies />
       <h3 className="text-center text-3xl font-bold text-white mb-4">
         子どもでも理解できるLUXLABの仕組み
