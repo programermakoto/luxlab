@@ -38,7 +38,7 @@ export default function CenterWrapper() {
             </ul>
 
             <div className="mt-6 inline-block rounded-full bg-gray-800 px-4 py-1 text-xs font-bold text-white">
-              初心者向け
+            副業の第一歩を踏み出したい方向け
             </div>
           </div>
 
@@ -51,12 +51,12 @@ export default function CenterWrapper() {
               <li>🔸 SNSマーケティング習得</li>
               <li>🔥 トーク力アップ習得</li>
               <li className="ml-4 text-xs">・月1回マンツーマンロープレ</li>
-              <li className="ml-4 text-xs">・専属クローザー</li>
-              <li className="ml-4 text-xs">・トークスクリプト共有</li>
+              <li className="ml-4 text-xs">・専属クローザーサポート</li>
+              <li className="ml-4 text-xs">・為替トレードスキル</li>
               <li>🔸 ポケカ物販</li>
-              <li>🔸 ECサイト共同運営事業</li>
-              <li>🔸 その他優良案件・情報共有</li>
-              <li>🔥 代表との個別面談（月1回）</li>
+              <li>🔸 ECサイト共同運営</li>
+              <li>🔸 優良案件・情報共有</li>
+              <li>🔥 半年に一度リアルイベント参加権(大阪・東京)</li>
             </ul>
 
             <div className="mt-6 inline-block rounded-full bg-[#D4AF37] px-4 py-1 text-xs font-bold text-black">
@@ -70,17 +70,13 @@ export default function CenterWrapper() {
             <p className="mb-4 font-bold text-lg">月額 50,000円（税込）</p>
 
             <ul className="space-y-2 text-sm">
-              <li>🔸 SNSマーケティング習得</li>
-              <li>🔸 トーク力アップ習得</li>
+              <li>🔸 LAB PROの全内容</li>
               <li className="ml-4 text-xs">・月1回マンツーマンロープレ</li>
-              <li className="ml-4 text-xs">・専属クローザー</li>
-              <li className="ml-4 text-xs">・トークスクリプト共有</li>
-              <li>🔸 ポケカ物販</li>
-              <li>🔸 ECサイト共同運営事業</li>
-              <li>🔸 その他優良案件・情報共有</li>
-              <li>🔸 代表との個別面談（月1回）</li>
-              <li className="font-bold">🔥 独立・起業支援</li>
-              <li className="ml-4 text-xs">・法人設立〜事業が回るまで徹底支援</li>
+              <li>🔸 月1回マンツーマンロープレ</li>
+              <li>🔸 代表との個別面談(月1回)</li>
+              <li>🔸 独立・起業支援(法人設立〜事業安定まで)</li>
+              <li className="font-bold">🔥 特典:LP作成無料,MEO対策,広告・プロモーション動画月1本提供</li>
+              <li className="ml-4 text-xs">・半年に1回リアルイベント参加権</li>
             </ul>
 
             <div className="mt-6 inline-block rounded-full bg-black px-4 py-1 text-xs font-bold text-white">
