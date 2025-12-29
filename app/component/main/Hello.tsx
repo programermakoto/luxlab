@@ -43,14 +43,12 @@ export default function Hello() {
             sm:text-3xl
           "
         >
-          LUXLABは学校が生徒にお金を支払う珍しいスクール。
+         “LUX LAB”は
           <br className="hidden sm:block" />
           <br className="hidden sm:block" />
 
           <span className="block mt-4 sm:mt-0">
-            もう一度言います。
-            <br className="sm:hidden" />
-            「LUXLABが支払います」
+          学びと実践が循環するスクール。
           </span>
         </h4>
       </article>
