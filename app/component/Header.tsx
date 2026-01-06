@@ -34,7 +34,7 @@ export default function Header() {
           />
 
           <h1 className="text-white text-2xl font-bold leading-relaxed">
-            お金と時間に縛られない人生を、現実にする
+            お金と時間に縛られない、<br></br>人生を現実にする
           </h1>
 
           <small className="mt-3 text-xs text-gray-300">
